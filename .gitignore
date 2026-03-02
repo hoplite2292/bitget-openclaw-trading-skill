@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+Implementation_Plan.md
+Project_Spec.md
